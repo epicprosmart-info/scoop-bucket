@@ -1,12 +1,12 @@
 {
   "##": "Rendered by deploy-git.sh (cli_tap_bucket) from release.json of every non-pre-release - never edit by hand. Scoop bucket: epicprosmart-info/scoop-bucket -> bucket/cosec-cli.json",
-  "version": "1.0.0-rc.3",
+  "version": "1.0.0-rc.4",
   "description": "CoSec Shield CLI - SBOM upload + CI gate, threat cases, audit file verification, MCP bridge",
   "homepage": "https://github.com/epicprosmart-info/cosec-cli",
   "license": { "identifier": "Proprietary", "url": "https://github.com/epicprosmart-info/cosec-cli/blob/main/LICENSE.md" },
   "architecture": {
-    "64bit": { "url": "https://github.com/epicprosmart-info/cosec-cli/releases/download/v1.0.0-rc.3/cosec-cli_v1.0.0-rc.3_windows_amd64.zip", "hash": "36e35164fa8a11df8a4fa26bfb0020e5bcbb1d94e42c9cdfc8e344c64f53efa7" },
-    "arm64": { "url": "https://github.com/epicprosmart-info/cosec-cli/releases/download/v1.0.0-rc.3/cosec-cli_v1.0.0-rc.3_windows_arm64.zip", "hash": "d4a420adb803e49d434a895da76f438dc84977231e3c7316f9090e932ac8919b" }
+    "64bit": { "url": "https://github.com/epicprosmart-info/cosec-cli/releases/download/v1.0.0-rc.4/cosec-cli_v1.0.0-rc.4_windows_amd64.zip", "hash": "e8d5d9a884a96b1b8a8019981b622263c4fec29c4dd924f70593241aeb1dcc75" },
+    "arm64": { "url": "https://github.com/epicprosmart-info/cosec-cli/releases/download/v1.0.0-rc.4/cosec-cli_v1.0.0-rc.4_windows_arm64.zip", "hash": "298335f9cb490a47b31915d909f7e39650fa80d03ea26c209b1c035d8a1c4aab" }
   },
   "bin": "cosec-cli.exe",
   "checkver": { "github": "https://github.com/epicprosmart-info/cosec-cli" },
